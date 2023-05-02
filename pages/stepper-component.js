@@ -1,5 +1,5 @@
 import StepperComponent from "./components/StepperComponent";
-import { HeaderTabs } from "./components/HeaderTabs";
+import HeaderTabs from "./components/HeaderTabs";
 import data from "./data.json";
 import { NextSeo } from "next-seo";
 

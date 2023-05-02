@@ -1,7 +1,8 @@
 import { useQuery } from "@tanstack/react-query";
 import axios from "axios";
 import { NextSeo } from "next-seo";
-import { HeaderTabs } from "./components/HeaderTabs";
+import HeaderTabs from "./components/HeaderTabs";
+// import { HeaderTabs } from "./components/HeaderTabs";
 import users from "./data.json";
 
 const GetData = async () => {
